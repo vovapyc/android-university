@@ -1,4 +1,4 @@
 # Android labs
 
 ### 1. Поняття лейаута та актівіті Android
-[Video](https://gifs.com/gif/vlMoL5)
+![](https://j.gifs.com/vlMoL5.gif)
