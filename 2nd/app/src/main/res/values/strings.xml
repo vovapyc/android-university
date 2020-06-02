@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Використання ButtonNavigationView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dec_to_bin">DEC to BIN</string>
+    <string name="bin_to_dec">BIN to DEC</string>
+    <string name="add_bin">add BIN</string>
+    <string name="title_n">Переведення числа у двійкову систему числення</string>
+    <string name="title_fr1">Переведення двійкового числа у десяткову систему числення</string>
+    <string name="convert">Перевести</string>
+    <string name="enter_num">Введіть число:</string>
+    <string name="title_fr1_2">Переведення числа у двійкову систему числення</string>
+    <string name="enter_num_fr1">Введіть число:</string>
+    <string name="probil"> </string>
+    <string name="title_fr3">Додавання двійкових чисел</string>
+    <string name="add_title">Додати</string>
+    <string name="enter_two_number">Введіть два числа:</string>
+    <string name="probil_fr3"> </string>
+</resources>

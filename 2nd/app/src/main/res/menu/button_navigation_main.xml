@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_to_bin"
+        android:enabled="true"
+        android:icon="@drawable/ic_looks_one_black_24dp"
+        android:title="@string/dec_to_bin" />
+    <item
+        android:id="@+id/action_to_dec"
+        android:enabled="true"
+android:icon="@drawable/ic_looks_two_black_24dp"
+        android:title="@string/bin_to_dec" />
+    <item
+        android:id="@+id/action_add_bins"
+        android:enabled="true"
+android:icon="@drawable/ic_looks_3_black_24dp"
+        android:title="@string/add_bin" />
+
+</menu>
